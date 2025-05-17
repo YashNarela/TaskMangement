@@ -1,0 +1,10 @@
+.app-layout-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .app-layout-content {
+    flex: 1;
+    background-color: #f3f4f6; 
+  }
+  
