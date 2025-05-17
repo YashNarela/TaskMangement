@@ -3,12 +3,12 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f3f4f6; /* gray-100 */
+    background-color: #f3f4f6; 
   }
   
   .create-task-box {
     width: 100%;
-    max-width: 32rem; /* same as max-w-lg */
+    max-width: 32rem; 
     background-color: #fff;
     padding: 1rem;
     border-radius: 0.5rem;
@@ -30,7 +30,7 @@
     display: block;
     font-size: 0.875rem;
     font-weight: 600;
-    color: #374151; /* gray-700 */
+    color: #374151; 
     margin-bottom: 0.25rem;
   }
   
@@ -39,7 +39,7 @@
   .form-select {
     width: 100%;
     padding: 0.5rem;
-    border: 1px solid #d1d5db; /* gray-300 */
+    border: 1px solid #d1d5db; 
     border-radius: 0.5rem;
     outline: none;
   }
@@ -47,12 +47,12 @@
   .form-input:focus,
   .form-textarea:focus,
   .form-select:focus {
-    border-color: #3b82f6; /* blue-500 */
+    border-color: #3b82f6; 
     box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
   }
   
   .submit-button {
-    background-color: #0f172a; /* slate-950 */
+    background-color: #0f172a; 
     color: #fff;
     padding: 0.5rem 1rem;
     border-radius: 0.5rem;
@@ -61,7 +61,7 @@
   }
   
   .submit-button:hover {
-    background-color: #1e293b; /* darker slate */
+    background-color: #1e293b;
   }
   
   .text-center {
